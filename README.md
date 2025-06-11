@@ -1,0 +1,2 @@
+# myAspNetCoreBlog_BlogPlatform_Vipullakum007
+fork from BlogPlatform_Vipullakum007
